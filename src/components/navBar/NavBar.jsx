@@ -1,6 +1,6 @@
 
-import links from "./Socialinks.jsx";
-import Social from "./Social.jsx";
+import links from "../../components/navBar/Socialinks.jsx";
+import Social from "../../components/navBar/Social.jsx";
 import HoverTextGrey from "../../components/effects/HoverTextGrey.jsx";
 import PropTypes from "prop-types";
 
