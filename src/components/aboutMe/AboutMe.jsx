@@ -2,7 +2,6 @@
 import Bio from "./Bio.jsx";
 import ProfilePictureComp from "./MyImg.jsx";
 import ProfilePicture from '../../assets/img/photoProfile.svg';
-
 function AboutMe() {
     return (
         <div className="flex items-center justify-center mt-40">
